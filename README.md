@@ -8,4 +8,4 @@ In dieser Stunde ist uns dann die Idee gekommen und wir haben direkt angefangen,
 
 ## 15.01.2019
 ### Das Programieren fängt an
-Heute haben wir mit dem Stundenblog angefangen und den Beitrag der letzten Woche geschrieben.
+Heute haben wir mit dem Stundenblog angefangen und den Beitrag der letzten Woche geschrieben. Nachdem wir den gestrigen Beitrag fertig dokumentiert hatten, haben wir uns an das Spiel gesetzt. Nach ein paar Veruchen, welche gescheitert waren, haben wir Herrn Buhl zu Hilfe geholt. Mit ihm haben wir es geschafft unseren ersten Block mit Befehlen geschrieben. Den Rest der Stunde ist unser Computer leider plötzlich abgestürzt und aus diesem Grund haben wir diese Stunde nichts mehr weiter programmieren können.
