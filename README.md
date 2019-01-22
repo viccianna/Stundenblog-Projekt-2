@@ -12,7 +12,8 @@ Heute haben wir mit dem Stundenblog angefangen und den Beitrag der letzten Woche
 
 ## 21.01.2018
 ### Screentime
-Heute wollen wir es schaffen, alle Screens mit befehlen auszustatten, damit sie beim anklicken bestimmter Bilder ihren Hintergrund wechseln. Da wir keinen Befehl "random" finden konnten, haben wir heute erneut Herrn Buhl gefragt. Wir wollten diesen bestimmten Befehlblock haben, damit mehr Abwechslung ins Spiel kommt und keine feste Reihenfolge der Screens erfolgt. Nachdem wir mit unserem Lehrer ein wenig herumexperimentiert haben, haben wir einen passenden, funktionierenden Befehl gefunden und diesen dann fürs erste 26 Mal wiederholt, damit alle 26 Buchstaben vorhanden sind. Wärend Johanna dann zum Ende hin die Blocks nacheinander eingefügt hat, habe ich schonmal angefangen, den Blockeintrag von gestern geschrieben.
+Heute wollen wir es schaffen, alle Screens mit Befehlen auszustatten, damit sie beim anklicken bestimmter Bilder ihren Hintergrund wechseln. Da wir keinen Befehl "random" finden konnten, haben wir heute erneut Herrn Buhl gefragt. Wir wollten diesen bestimmten Befehlblock haben, damit mehr Abwechslung ins Spiel kommt und keine feste Reihenfolge der Screens erfolgt. Nachdem wir mit unserem Lehrer ein wenig herumexperimentiert haben, haben wir einen passenden, funktionierenden Befehl gefunden und diesen dann fürs erste 26 Mal wiederholt, damit alle 26 Buchstaben vorhanden sind. Wärend Johanna dann zum Ende hin die Blocks nacheinander eingefügt hat, habe ich schonmal angefangen, den Blockeintrag von gestern geschrieben.
 
 ## 22.01.2018
-###
+### 
+Heute haben wir uns vorgenommen, einen Screen für richtig und falsch zu erstellen. Dazu haben wir im Internet nach passenden Bildern gesucht. Ausserdem haben wir einen Startbildschirm programmiert, mit dem das Spiel losgeht. Mehr haben wir heute leider nicht geschafft. Aber wir haben den heutigen Blog-Eintrag erstellt. 
