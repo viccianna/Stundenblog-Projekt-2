@@ -1,10 +1,16 @@
-# STUNDENBLOG PROJEKT 2 *ABC lernen*
+# STUNDENBLOG PROJEKT 2 ("*ABC lernen*")
 
 # Ihnhalt
 
 [1. Einleitung](#1)
 
 [2. ](#2)
+
+# <a name="1"></a>Einleitung
+In diesem Blog haben wir erneut die Entwicklung unseres 2. Informatikprojekts dokumentiert. Dazu gehören sowohl die Informatikstunden, in denen wir an unserem Projekt gearbeitet haben, als auch die Zeit welche wir außerhalb der Schule dafür investiert haben. Schlussendlich ist eine Chronologie entstanden, welche die Entwicklung des Spiels mit Progression und Rückschlägen so nachvollziehbar wie möglich darstellt. Also viel Spaß beim Lesen!
+Bevor wir anfingen an dem Spiel zu arbeiten, haben wir die letzten Stunden vor den Weihnachtsferien sowie die ersten paar Stunden nach den Ferien damit verbracht, unsere Ideen und Gedanken zu sammeln um uns schließlich auf eine Idee zu einigen. Im Gegensatz zum letzten Projekt wollten wir dieses Mal mit einem anderen Computerprogramm arbeiten, als mit Snap! obwohl wir sehr gut mit diesem Programm zurecht gekommen sind. Dies hat auch damit etwas zu tun, dass wir eher in die Richtung Handyspiel programmieren wollten und nicht erneut ein Computerspiel.
+
+
 
 ## 08.01.2019
 ### Endlich eine Idee
