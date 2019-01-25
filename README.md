@@ -4,19 +4,27 @@
 
 [1. Einleitung](#1)
 
-[2. ](#2)
+[2. Einfindung in das neue Programm](#2)
+
+[3. Unser Projekt](#3)
+
 
 # <a name="1"></a>Einleitung
 In diesem Blog haben wir erneut die Entwicklung unseres 2. Informatikprojekts dokumentiert. Dazu gehören sowohl die Informatikstunden, in denen wir an unserem Projekt gearbeitet haben, als auch die Zeit welche wir außerhalb der Schule dafür investiert haben. Schlussendlich ist eine Chronologie entstanden, welche die Entwicklung des Spiels mit Progression und Rückschlägen so nachvollziehbar wie möglich darstellt. Also viel Spaß beim Lesen!
 Bevor wir anfingen an dem Spiel zu arbeiten, haben wir die letzten Stunden vor den Weihnachtsferien sowie die ersten paar Stunden nach den Ferien damit verbracht, unsere Ideen und Gedanken zu sammeln um uns schließlich auf eine Idee zu einigen. Im Gegensatz zum letzten Projekt wollten wir dieses Mal mit einem anderen Computerprogramm arbeiten, als mit Snap! obwohl wir sehr gut mit diesem Programm zurecht gekommen sind. Dies hat auch damit etwas zu tun, dass wir eher in die Richtung Handyspiel programmieren wollten und nicht erneut ein Computerspiel.
 
 
+# <a name="2"></a>Einfindung in das neue Programm
+
+Da wir mit diesem Programm noch keine Erfahrungen hatten und dies eine neue Herausforderung für uns war, haben wir wie bei unserem letzten Programm ersteinmal ein wenig herumexperimentiert. Jedoch hatten wir schon eine mehr oder weniger konkrete Idee zu unserem Spiel. Zum Einsteig schauten wir uns zur Hilfestellung unter anderem auch ein Youtube Vodeo an, in dem einfache Befehle und Codes erläutert und gezeigt werden. Da es aber doch eine große Umstellung der Programme für uns war, haben wir ab und zu Herrn Buhl zur Hilfe geholt. Nach aber nicht allzulanger Zeit haben wir uns doch ganz gut in das neue Programm "Applab" eingefunden.
 
 ## 08.01.2019
 ### Endlich eine Idee
 Wir haben seit der letzten Stunde nach einer Idee für ein neues Projekt gesucht. 
 Zwischendurch hatten wir mehrere Einfälle, beispielsweise einen Vokabeltrainer für verschiedene Sprachen und biologische Definitionen zu erstellen. Allerdings war uns die Idee zu langweilig. Auch über ein Osterspiel haben wir nachgedacht, das war uns im Endeffekt aber zu sinnfrei.
 In dieser Stunde ist uns dann die Idee gekommen und wir haben direkt angefangen, sie umzusetzen. Wir wollen eine App erstellen, mit der kleine Kinder das Alphabet lernen können. Wir haben angefangen 26 Hintergründe zu erstellen und danach ein Textfeld mit dem einzelnen Buchstaben eingefügt. Unter die jeweiligen Buchstaben haben wir zwei Bilder plaziert von denen jeweils eins mit dem obengenannten Buchstaben beginnt.
+
+# <a name="3"></a>Unser Projekt
 
 ## 15.01.2019
 ### Das Programieren fängt an
