@@ -39,5 +39,5 @@ Heute wollen wir es schaffen, alle Screens mit Befehlen auszustatten, damit sie 
 Heute haben wir uns vorgenommen, einen Screen für richtig und falsch zu erstellen. Dazu haben wir im Internet nach passenden Bildern gesucht. Außerdem haben wir einen Startbildschirm programmiert, mit dem das Spiel losgeht. Mehr haben wir heute leider nicht geschafft. Aber wir haben den heutigen Blog-Eintrag erstellt. 
 
 ## 25.01.2019
-### 2 Szenarios (Victoria)
-Ich habe mich heute Nachmittag daran gesetzt, die 2 Szenarios: "Gewinnen" und "Verlieren" , mit den Befehlen in das Spiel mit einzubauen. Dazu habe ich eine Reihenfolge von Befehlen wiederholt zu jedem Screen hinzugefügt, welcher den vorigen Blocken ähnelt (vom Aufbau), welche wir schon ganz am Anfang mit Herrn Buhls Hilfe einfügten. Zudem habe ich mich auch weitergehend mit der Gestalltung dieses Blockes beschäftigt.
+### Victoria
+Ich habe mich heute Nachmittag zu hause daran gesetzt, die 2 Szenarios: "Gewinnen" und "Verlieren" , mit den Befehlen in das Spiel mit einzubauen. Dazu habe ich eine Reihenfolge von Befehlen wiederholt zu jedem Screen hinzugefügt, welcher den vorigen Blocken ähnelt (vom Aufbau), welche wir schon ganz am Anfang mit Herrn Buhls Hilfe einfügten. Zudem habe ich mich auch weitergehend mit der Gestalltung dieses Blockes beschäftigt. zusätzlich habe ich schonmal mit unserem 2. Blog auf Github erstellt, auf dem wir unser Spiel im Detail erklären werden.
