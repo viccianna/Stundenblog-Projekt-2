@@ -1,6 +1,6 @@
 # STUNDENBLOG PROJEKT 2 ("*ABC lernen*")
 
-# Ihnhalt
+# Inhalt
 
 [1. Einleitung](#1)
 
@@ -41,3 +41,7 @@ Heute haben wir uns vorgenommen, einen Screen für richtig und falsch zu erstell
 ## 25.01.2019
 ### Victoria
 Ich habe mich heute Nachmittag zu hause daran gesetzt, die 2 Szenarios: "Gewinnen" und "Verlieren" , mit den Befehlen in das Spiel mit einzubauen. Dazu habe ich eine Reihenfolge von Befehlen wiederholt zu jedem Screen hinzugefügt, welcher den vorigen Blocken ähnelt (vom Aufbau), welche wir schon ganz am Anfang mit Herrn Buhls Hilfe einfügten. Zudem habe ich mich auch weitergehend mit der Gestalltung dieses Blockes beschäftigt. zusätzlich habe ich schonmal mit unserem 2. Blog auf Github erstellt, auf dem wir unser Spiel im Detail erklären werden.
+
+## 29.01.2019
+### Sounds
+Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sich Johannas kleiner Bruder zur Verfügung gestellt und für jedes Bild den Buchstaben mit dem Beispiel gesprochen. Als ersten Schritt haben wir dann die Audiodatei auf den Computer heruntergeladen und ihn dann als Sound in das Spiel eingefügt. Nach einigem Probieren von zusammengestellten Befehlen, welche bewerkstelligen sollen, dass der Sound nur dann auftaucht, wenn ein spezielles Bild angeklickt wird, hat es trotz allem leider zunächst nicht geklappt. Wir haben nicht herausgefunden, wie wir das Audio nur ein Mal abspielen lassen und nicht in einer nicht endenden Schleife. Dafür haben wir in der heutigen Stunde diesen neuen Blogeintrag geschrieben.
