@@ -8,6 +8,10 @@
 
 [3. Unser Projekt](#3)
 
+[4. Fazit und Zusammenfassung](#4)
+
+[5. Alles zum Spiel](#5)
+
 
 # <a name="1"></a>Einleitung
 In diesem Blog haben wir erneut die Entwicklung unseres 2. Informatikprojekts dokumentiert. Dazu gehören sowohl die Informatikstunden, in denen wir an unserem Projekt gearbeitet haben, als auch die Zeit welche wir außerhalb der Schule dafür investiert haben. Schlussendlich ist eine Chronologie entstanden, welche die Entwicklung des Spiels mit Progression und Rückschlägen so nachvollziehbar wie möglich darstellt. Also viel Spaß beim Lesen!
@@ -48,4 +52,13 @@ Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sic
 
 ## 04.02.2018
 ### Virus-Alarm
-In der heutigen Stunde hatten wir anfangs ein paar technische4 Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres mal im stich gelassen. Daraufhin hat uns Herr Buhl freundlicgherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach ernueten nicht funktionierenden Befehlblöcken, zum spielen des Sounds, haben wir Hetrnn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hattern, hast s einfach nicht geklappt.
+In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt.
+
+
+
+# <a name="5"></a>Alles zum Spiel
+
+Wie schon bei unserem ersten Blog werden wir hier noch useren 2. Blog verlinken, damit ihr alles rund um das eigentliche Spiel nachschauen, veerstehen und nachvollziehen könnt. Um das auch zu gewährleiten erklären wir es euch dort Schritt für Schritt, falls ihr das Spiel vielleicht sogar selbst einmal nachprogrammieren könnt.
+Also danke für euren besuch hier auf unserem Blog und viel Spaß beim selber Ausprobieren!
+
+
