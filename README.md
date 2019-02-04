@@ -45,3 +45,5 @@ Ich habe mich heute Nachmittag zu hause daran gesetzt, die 2 Szenarios: "Gewinne
 ## 29.01.2019
 ### Sounds
 Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sich Johannas kleiner Bruder zur Verfügung gestellt und für jedes Bild den Buchstaben mit dem Beispiel gesprochen. Als ersten Schritt haben wir dann die Audiodatei auf den Computer heruntergeladen und ihn dann als Sound in das Spiel eingefügt. Nach einigem Probieren von zusammengestellten Befehlen, welche bewerkstelligen sollen, dass der Sound nur dann auftaucht, wenn ein spezielles Bild angeklickt wird, hat es trotz allem leider zunächst nicht geklappt. Wir haben nicht herausgefunden, wie wir das Audio nur ein Mal abspielen lassen und nicht in einer nicht endenden Schleife. Dafür haben wir in der heutigen Stunde diesen neuen Blogeintrag geschrieben.
+
+## 04.02.2018
