@@ -54,11 +54,13 @@ Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sic
 ### Virus-Alarm
 In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt.
 
+# <a name="4"></a>Fazit und Zusammenfassung
 
+...
 
 # <a name="5"></a>Alles zum Spiel
 
 Wie schon bei unserem ersten Blog werden wir hier noch useren 2. Blog verlinken, damit ihr alles rund um das eigentliche Spiel nachschauen, veerstehen und nachvollziehen könnt. Um das auch zu gewährleiten erklären wir es euch dort Schritt für Schritt, falls ihr das Spiel vielleicht sogar selbst einmal nachprogrammieren könnt.
 Also danke für euren besuch hier auf unserem Blog und viel Spaß beim selber Ausprobieren!
 
-
+https://github.com/viccianna/Projektblog-2 
