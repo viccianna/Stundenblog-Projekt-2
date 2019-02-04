@@ -52,7 +52,10 @@ Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sic
 
 ## 04.02.2018
 ### Virus-Alarm
-In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt.
+In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt. 
+
+### Endlich (Victoria)
+Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich weitergekommen sind, habe ich mich nach heute Nachmittag nocheinmal an unser Spiel gesetzt. Nach einigem herumprobieren habe ich es schließlich geschafft, den Sound ohne Schleife hineinzubauen. Zudem habe ich weiter an unseren Blogs weitergearbeitet.
 
 # <a name="4"></a>Fazit und Zusammenfassung
 
