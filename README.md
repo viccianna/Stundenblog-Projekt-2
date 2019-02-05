@@ -50,12 +50,16 @@ Ich habe mich heute Nachmittag zu hause daran gesetzt, die 2 Szenarios: "Gewinne
 ### Sounds
 Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sich Johannas kleiner Bruder zur Verfügung gestellt und für jedes Bild den Buchstaben mit dem Beispiel gesprochen. Als ersten Schritt haben wir dann die Audiodatei auf den Computer heruntergeladen und ihn dann als Sound in das Spiel eingefügt. Nach einigem Probieren von zusammengestellten Befehlen, welche bewerkstelligen sollen, dass der Sound nur dann auftaucht, wenn ein spezielles Bild angeklickt wird, hat es trotz allem leider zunächst nicht geklappt. Wir haben nicht herausgefunden, wie wir das Audio nur ein Mal abspielen lassen und nicht in einer nicht endenden Schleife. Dafür haben wir in der heutigen Stunde diesen neuen Blogeintrag geschrieben.
 
-## 04.02.2018
+## 04.02.2019
 ### Virus-Alarm
 In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt. 
 
 ### Endlich (Victoria)
 Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich weitergekommen sind, habe ich mich nach heute Nachmittag nocheinmal an unser Spiel gesetzt. Nach einigem herumprobieren habe ich es schließlich geschafft, den Sound ohne Schleife hineinzubauen. Zudem habe ich weiter an unseren Blogs weitergearbeitet.
+
+## 05.02.2019
+### Victoria
+Nachdem ich gestern herausgefunden hatte, wie wir die Sounds einfügen können, habe ich mich heute weiter an unser Projekt gesetzt. Nachdem ich die Audiodateien von Johanna geschickt bekommen hatte, habe ich sie zuerst auf meinem handy gespeichert, dann auf meinen Computer gepielt und schließlich habe ich die Dateien auf Applab hochgeladen. Damit musste ich nur noch den Befehl zum Abspielen eines Sounds in den Block einbauen und die entsprechende Audiodatei einfügen. Mit der Ausnahme von ein paar Audios sind nun fast alle Sounds eingefügt und damit sind wir schon fast fertig mit unserem Spiel. Abgesehen von dem Spiel, habe ich mich auch heute mit den Blogs, hier auf Github, beschäftigt (dies beinhaltet den Stundenblog sowie den Projektblog).
 
 # <a name="4"></a>Fazit und Zusammenfassung
 
