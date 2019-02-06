@@ -61,6 +61,10 @@ Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich
 ### Victoria
 Nachdem ich gestern herausgefunden hatte, wie wir die Sounds einfügen können, habe ich mich heute weiter an unser Projekt gesetzt. Nachdem ich die Audiodateien von Johanna geschickt bekommen hatte, habe ich sie zuerst auf meinem handy gespeichert, dann auf meinen Computer gepielt und schließlich habe ich die Dateien auf Applab hochgeladen. Damit musste ich nur noch den Befehl zum Abspielen eines Sounds in den Block einbauen und die entsprechende Audiodatei einfügen. Mit der Ausnahme von ein paar Audios sind nun fast alle Sounds eingefügt und damit sind wir schon fast fertig mit unserem Spiel. Abgesehen von dem Spiel, habe ich mich auch heute mit den Blogs, hier auf Github, beschäftigt (dies beinhaltet den Stundenblog sowie den Projektblog).
 
+## 06.02.2019
+### Johanna und Victoria
+Heute haben wir uns nochmal an das Spiel gesetzt um die letzten Sounds einzugügen, damit wir den Großteil unseres Vorhabens erledigt haben. Dies geschah dann auch schließlich in ein paar wenigen Minuten. Zudem haben wir heute erneut über weitere Ideen nachgedacht, wie wir unser Spiel noch weiter ausbauen können. Johanna hatte die Idee, dass wir zum Beispiel zwei Möglichkeiten für den Spieler einbauen, wie er das Spiel spielen möchte. Die eine Möglichkeit wäre, das normale Spiel (Bilder zu den Buchstaben anklicken) und die Andere wäre eine kleine Abwechslung dazu. Dabei würde der Spieler unten auf dem Screen einen Korb haben und Buchstaben würden wie Regen den Bildschirm herunterfallen und der Spieler muss sie auffangen, bis am Ende ein Wort entsteht. Ob wir dieses Vorhaben auch Umsetzten werden wir noch sehen.
+
 # <a name="4"></a>Fazit und Zusammenfassung
 
 ...
