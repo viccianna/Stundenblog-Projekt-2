@@ -65,6 +65,10 @@ Nachdem ich gestern herausgefunden hatte, wie wir die Sounds einfügen können, 
 ### Johanna und Victoria
 Heute haben wir uns nochmal an das Spiel gesetzt um die letzten Sounds einzugügen, damit wir den Großteil unseres Vorhabens erledigt haben. Dies geschah dann auch schließlich in ein paar wenigen Minuten. Zudem haben wir heute erneut über weitere Ideen nachgedacht, wie wir unser Spiel noch weiter ausbauen können. Johanna hatte die Idee, dass wir zum Beispiel zwei Möglichkeiten für den Spieler einbauen, wie er das Spiel spielen möchte. Die eine Möglichkeit wäre, das normale Spiel (Bilder zu den Buchstaben anklicken) und die Andere wäre eine kleine Abwechslung dazu. Dabei würde der Spieler unten auf dem Screen einen Korb haben und Buchstaben würden wie Regen den Bildschirm herunterfallen und der Spieler muss sie auffangen, bis am Ende ein Wort entsteht. Ob wir dieses Vorhaben auch Umsetzten werden wir noch sehen.
 
+## 09.02.2019
+### Victoria
+Da ich mich darüber informiert hatte, ob und wie man unsere neue Spielidee umsetzten könnte, habe ich auf Youtube und generell im Internet nach möglichen Umsetztungen recherchiert. Nach einiger Zeit intensiver Recherche haben wir aber beschlossen, dass es doch sehr umfangreich und kompliziert werden würde. Daher haben wir auch entschieden, dass wir nach weiteren Ideen suchen werden. Da ich heute auch noch etwas Freizeit hatte, habe ich schon ein paar Ideen versucht umzusetzten indem ich sie schon ein wenig vorprogrammiert habe um zu testen, ob sie sich so umsetzten lassen, wie sie geplant waren. Dabei gab es ein paar Fails aber auch Erfolge.
+
 # <a name="4"></a>Fazit und Zusammenfassung
 
 ...
