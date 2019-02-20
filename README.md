@@ -74,7 +74,7 @@ Da ich mich darüber informiert hatte, ob und wie man unsere neue Spielidee umse
 ## 20.02.2019
 ### Victoria
 Johanna und ich haben uns heute entschieden, die Ideen die wir bisher hatten alle mit in unser Spiel zu integrieren. Daher habe ich mich heute den Nachmittag an unser Spiel gesetzt und alles eingefügt. Nun hat der Spieler direkt zu Anfang mehrere Spielmöglichkeiten. Das neue Spiel besteht daraus, dass der Spieler 3 verschiedene Schreibweisen zu einem Bild bekommt und die Richte antwort muss er anklicken um die nächste Frage zu beantworten. Für dieses Spiel musste man für jeden Buchstaben erneut neue Screen erstellen. Dazu musste man jeweils 3 verschiedene Textkästen hinzufügen. Danach muss man alle Kästen einzeln programmieren. Nachdem das alles geschafft war, habe ich diesen Blogeintrag geschrieben und werde wahrscheinlich noch mit dem anderen Spiel anfangen.
-
+Nach einiger Zeit habe ich auch noch das 2. Spiel programmiert und soweit ich es ausprobieren konnte funktioniert auch alles. Ich denke, dass wir hiermit wieder einen großen Schritt vorangekommen sind und wir nicht mehr viel an dem gesamten Spiel ändern.
 # <a name="4"></a>Fazit und Zusammenfassung
 
 ...
