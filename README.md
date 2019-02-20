@@ -70,6 +70,11 @@ Heute haben wir uns nochmal an das Spiel gesetzt um die letzten Sounds einzugüg
 ### Victoria
 Da ich mich darüber informiert hatte, ob und wie man unsere neue Spielidee umsetzten könnte, habe ich auf Youtube und generell im Internet nach möglichen Umsetztungen recherchiert. Nach einiger Zeit intensiver Recherche haben wir aber beschlossen, dass es doch sehr umfangreich und kompliziert werden würde. Daher haben wir auch entschieden, dass wir nach weiteren Ideen suchen werden. Da ich heute auch noch etwas Freizeit hatte, habe ich schon ein paar Ideen versucht umzusetzten indem ich sie schon ein wenig vorprogrammiert habe um zu testen, ob sie sich so umsetzten lassen, wie sie geplant waren. Dabei gab es ein paar Fails aber auch Erfolge. Eine der neuen Ideen ist es, dass man auf einem anderen Screen ein Bild sieht unter dem es verschiedene Möglichkeiten zur Schreibweise des Bildes gibt. Am Beispiel vom Apfel wären die Möglichkeiten dann "Apfel", "Afpel" und "Appel" und der Spieler muss dann das richtige Feld anklicken. Wir werden aber trotzdem noch weiter über andere Spiele nachdenken und hoffentlich bald mit dem Programmieren anfangen.
 
+
+## 20.02.2019
+### Victoria
+Johanna und ich haben uns heute entschieden, die Ideen die wir bisher hatten alle mit in unser Spiel zu integrieren. Daher habe ich mich heute den Nachmittag an unser Spiel gesetzt und alles eingefügt. Nun hat der Spieler direkt zu Anfang mehrere Spielmöglichkeiten. Das neue Spiel besteht daraus, dass der Spieler 3 verschiedene Schreibweisen zu einem Bild bekommt und die Richte antwort muss er anklicken um die nächste Frage zu beantworten. Für dieses Spiel musste man für jeden Buchstaben erneut neue Screen erstellen. Dazu musste man jeweils 3 verschiedene Textkästen hinzufügen. Danach muss man alle Kästen einzeln programmieren. Nachdem das alles geschafft war, habe ich diesen Blogeintrag geschrieben und werde wahrscheinlich noch mit dem anderen Spiel anfangen.
+
 # <a name="4"></a>Fazit und Zusammenfassung
 
 ...
