@@ -80,6 +80,10 @@ Nach einiger Zeit habe ich auch noch das 2. Spiel programmiert und soweit ich es
 ### Neue Ideen?
 Heute haben wir Herrn Buhl unser Spiel gezeigt. Daraufhin hat er und vorgeschlagen, noch soetwas wie eine Statistik mit einzubauen, um damit die gesammelten Daten auszuwerten.
 
+## 04.03.2019
+### Computerkomplikationen 
+Heute wollten wir eigentlich die Statistik in unser erstes Spiel einbauen und perfektionieren. Allerdings hat uns der Computer erneut einen Strich durch die Rechnung gemacht. Selbst Herr Buhl konnte das Problem auf die Schnelle nicht lösen und hat uns in den Computerraum zwei gebracht. Dort konnten wir dann die letzten zehn Minuten produktiv nutzen und haben etwas an der Statistik weitergearbeitet und uns um unseren Stundenblog gekümmert. 
+
 
 # <a name="4"></a>Fazit und Zusammenfassung
 
