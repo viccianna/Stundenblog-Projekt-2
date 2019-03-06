@@ -89,6 +89,10 @@ Heute wollten wir eigentlich die Statistik in unser erstes Spiel einbauen und pe
 Nachdem wir über eine Woche versucht haben, unser Problem zu finden und alles mögliche ausprobiert haben war die Lösung heute, Herrn Buhl zu fragen, ob er uns helfen kann. Herr Buhl hat sich unser Projekt angeschaut und mit mir zusammen nach dem Problem gesucht. Letztendlich lag das Problem in einem Befehl "show" results, welcher an die falsche Stelle gesetz wurde. Außerdem hat Herr Buhl mir gleichzeitig die Anregung gegeben, wie wir unnötige, sich wiederholende Befehle aus dem Code löschen können. Es reichte außerdem, wenn wir den Befehl um die Statistik zu definieren nur ein mal anfangs einfügen, so konnte dieser Befehl auch an allen anderen Stellen gelöscht werden. 
 Da ich 26 Screens an mehreren Stellen verändern musste, haben die Änderungen die ganze Stunde gedauert, aber schlussendlich war es eine sehr produktive Doppelstunde und die Statistik funktioniuert nun endlich bei Spiel 1. Mein Ziel ist es nun, auch für Spiel zwei eine Statistik anzulegen, mit der man seine falschen und richtigen Treffer tracken kann.
 
+## 06.03.2019
+### Johanna und Victoria
+Heute haben wir uns drangesetzt, auch für das 2. Spiel eine Statistik einzubauen. Dafür haben wir die Befehle für das erste Spiel einfach kopier und in das andere Spiel eingefügt und schon war das erledigt. Nun überlegen wir, ob wir für das 2. Spiel nicht eine ganz eigene Statistik erstellen wollen.
+
 
 # <a name="4"></a>Fazit und Zusammenfassung
 
