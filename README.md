@@ -91,7 +91,11 @@ Da ich 26 Screens an mehreren Stellen verändern musste, haben die Änderungen d
 
 ## 06.03.2019
 ### Johanna und Victoria
-Heute haben wir uns drangesetzt, auch für das 2. Spiel eine Statistik einzubauen. Dafür haben wir die Befehle für das erste Spiel einfach kopier und in das andere Spiel eingefügt und schon war das erledigt. Nun überlegen wir, ob wir für das 2. Spiel nicht eine ganz eigene Statistik erstellen wollen.
+Heute haben wir uns drangesetzt, auch für das 2. Spiel eine Statistik einzubauen. Dafür haben wir die Befehle für das erste Spiel einfach kopiert und in das andere Spiel eingefügt und schon war das erledigt. Nun überlegen wir, ob wir für das 2. Spiel nicht eine ganz eigene Statistik erstellen wollen.
+
+## 09.03.2019
+### Johanna
+Heute wollte ich für das zweite Spiel, bei dem man auf die richtige Schreibweise der Wörter klicken muss eine eigene Statistik für "Falsch" und "Richtig" erstellen, die von der anderen Statistik unabhängig ist und außerdem die Ergebnisse nicht in einem Kuchendiagramm, sondern in einem Balkendiagramm darstellt, um das Spiel abwechlungsreich zu halten. Erst einmal musste ich dafür einen neuen Sreen mit einem neuen Diagramm erstellen und den zurück Button, der auf den Homesreen führt hinzufügen und definieren. Danach musste ich ein neues "showResults" definieren und habe es "showResultsB" genannt. In der Definition konnte ich die Variablen "Falsch" und "Richtig" nicht so nennen, da diese ja bereits so für die andere Statistik definiert waren und sonst das Ergebnis des anderen Spiels verfälscht hätten, da sie zu der anderen Statistik dazu gerechnet werden würden. Deshalb habe ich den beiden Begriffen ebenfalls ein "B" nachgestellt. Allerdings musste ich in der Definition der Darstellung des Ergebnisses wieder "Falsch" und "Richtig" verwenden (beide definiert als "FaslchB" bzw. "RichtigB" geteilt durch die Gesamtmenge der Votes multipliziert mit Hundert, um die Ergebnisse in Prozent zu erhalten), damit diese beiden Begriffe in der endgültigen Statistik auftauchen. Danach habe ich noch bei jedem Screen von 31 bis 58 die Befehle für die Statistik hinzugefügt. Am Ende habe ich dann anstelle eines Kuchendiagramms ein Säulendiagramm erstellt. 
 
 
 # <a name="4"></a>Fazit und Zusammenfassung
