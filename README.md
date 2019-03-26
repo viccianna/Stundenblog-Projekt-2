@@ -60,7 +60,7 @@ Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sic
 ### Virus-Alarm
 In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt. 
 
-## Johanna
+### Johanna
 In der Stunde hat es ja leider nicht funktioniert, deshalb habe ich Zuhause versucht, das Problem zu lösen. Virl weiter bin ich nicht gekommen, da mein Computer nicht mit dem Programm "AppLab" klargekommen ist und die Seite regelmäßig abstürzte. Ich habe dann aber den Stundenblog weiter geschrieben und noch neue Töne mit meinem Bruder aufgenommen.
 
 ### Endlich
