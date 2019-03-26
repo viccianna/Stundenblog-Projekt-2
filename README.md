@@ -118,7 +118,7 @@ Heute war unsere Intention die Daten aus der Statistik zu löschen deshalb haben
 
 ## 26.03.2019
 ### Differenzen beim Löschen
-Herrn Buhl hat uns gestern noch eine Mail zugeschickt in dem er uns eine Hilfestellung vorgeschlagen hat. Diese haben wir heute im Unterricht gelesen und in unser Spiel eingefügt. 
+Herr Buhl hat uns gestern noch eine Mail zugeschickt in dem er uns eine Hilfestellung vorgeschlagen hat. Diese haben wir heute im Unterricht gelesen und in unser Spiel eingefügt. Leider hat unser Spiel bereits zu viele IDs, die alle auf einem Zentralserver von AppLab gespeichert sind. Deshalb ist das Programm beim Löschen überfordert und es funktioniert nicht. Auf Herrn Buhl Account funkltioniert das Löschen allerdings beim identischen Spiel, da dort noch nicht so viele IDs vorhanden sind. 
 
 
 # <a name="4"></a>Fazit und Zusammenfassung
