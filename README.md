@@ -71,7 +71,7 @@ Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich
 Nachdem ich gestern herausgefunden hatte, wie wir die Sounds einfügen können, habe ich mich heute weiter an unser Projekt gesetzt. Nachdem ich die Audiodateien von Johanna geschickt bekommen hatte, habe ich sie zuerst auf meinem handy gespeichert, dann auf meinen Computer gepielt und schließlich habe ich die Dateien auf Applab hochgeladen. Damit musste ich nur noch den Befehl zum Abspielen eines Sounds in den Block einbauen und die entsprechende Audiodatei einfügen. Mit der Ausnahme von ein paar Audios sind nun fast alle Sounds eingefügt und damit sind wir schon fast fertig mit unserem Spiel. Abgesehen von dem Spiel, habe ich mich auch heute mit den Blogs, hier auf Github, beschäftigt (dies beinhaltet den Stundenblog sowie den Projektblog).
 
 ## 06.02.2019
-### Lezte Sounds einfügen
+### Letzte Sounds einfügen
 Heute haben wir uns nochmal an das Spiel gesetzt um die letzten Sounds einzugügen, damit wir den Großteil unseres Vorhabens erledigt haben. Dies geschah dann auch schließlich in ein paar wenigen Minuten. Zudem haben wir heute erneut über weitere Ideen nachgedacht, wie wir unser Spiel noch weiter ausbauen können. Johanna hatte die Idee, dass wir zum Beispiel zwei Möglichkeiten für den Spieler einbauen, wie er das Spiel spielen möchte. Die eine Möglichkeit wäre, das normale Spiel (Bilder zu den Buchstaben anklicken) und die Andere wäre eine kleine Abwechslung dazu. Dabei würde der Spieler unten auf dem Screen einen Korb haben und Buchstaben würden wie Regen den Bildschirm herunterfallen und der Spieler muss sie auffangen, bis am Ende ein Wort entsteht. Ob wir dieses Vorhaben auch Umsetzten werden wir noch sehen.
 
 ## 09.02.2019
@@ -111,6 +111,10 @@ Heute haben wir uns drangesetzt, auch für das 2. Spiel eine Statistik einzubaue
 ## 09.03.2019
 ### Johanna
 Heute wollte ich für das zweite Spiel, bei dem man auf die richtige Schreibweise der Wörter klicken muss eine eigene Statistik für "Falsch" und "Richtig" erstellen, die von der anderen Statistik unabhängig ist und außerdem die Ergebnisse nicht in einem Kuchendiagramm, sondern in einem Balkendiagramm darstellt, um das Spiel abwechlungsreich zu halten. Erst einmal musste ich dafür einen neuen Sreen mit einem neuen Diagramm erstellen und den zurück Button, der auf den Homesreen führt hinzufügen und definieren. Danach musste ich ein neues "showResults" definieren und habe es "showResultsB" genannt. In der Definition konnte ich die Variablen "Falsch" und "Richtig" nicht so nennen, da diese ja bereits so für die andere Statistik definiert waren und sonst das Ergebnis des anderen Spiels verfälscht hätten, da sie zu der anderen Statistik dazu gerechnet werden würden. Deshalb habe ich den beiden Begriffen ebenfalls ein "B" nachgestellt. Allerdings musste ich in der Definition der Darstellung des Ergebnisses wieder "Falsch" und "Richtig" verwenden (beide definiert als "FaslchB" bzw. "RichtigB" geteilt durch die Gesamtmenge der Votes multipliziert mit Hundert, um die Ergebnisse in Prozent zu erhalten), damit diese beiden Begriffe in der endgültigen Statistik auftauchen. Danach habe ich noch bei jedem Screen von 31 bis 58 die Befehle für die Statistik hinzugefügt. Am Ende habe ich dann anstelle eines Kuchendiagramms ein Säulendiagramm erstellt. 
+
+## 25.03.2019
+### Löschbutton
+Heute war unsere Intention die Daten aus der Statistik zu löschen deshalb haben wir einen Delete-Button eingefügt. Danach haben wir uns eine Beispielanleitung zu dem Befehl "deleteRecord" angeschaut. Dadurch wollten wir eine Idee bekommen wie wir diesen Befehl in unser Spiel einbauen könnten. Nach ein paaer fehlgeschlagen Versuchen haben wir uns mit Herrn Buhl zusammengesetzt und sind dem Problem auf den Grund gegangen. Doch leider war die Zeit zu kurz und wir haben das Problem nicht ganz lösen können. Daher wollen wir 
 
 
 # <a name="4"></a>Fazit und Zusammenfassung
