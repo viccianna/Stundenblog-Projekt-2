@@ -47,6 +47,11 @@ Heute haben wir uns vorgenommen, einen Screen für richtig und falsch zu erstell
 ### Victoria
 Ich habe mich heute Nachmittag zu hause daran gesetzt, die 2 Szenarios: "Gewinnen" und "Verlieren" , mit den Befehlen in das Spiel mit einzubauen. Dazu habe ich eine Reihenfolge von Befehlen wiederholt zu jedem Screen hinzugefügt, welcher den vorigen Blocken ähnelt (vom Aufbau), welche wir schon ganz am Anfang mit Herrn Buhls Hilfe einfügten. Zudem habe ich mich auch weitergehend mit der Gestalltung dieses Blockes beschäftigt. zusätzlich habe ich schonmal mit unserem 2. Blog auf Github erstellt, auf dem wir unser Spiel im Detail erklären werden.
 
+## 27.01.2019
+### Johanna
+Ich habe mir heute überlegt, dass es sehr schön wäre, wenn wir in unserem Spiel zu jedem Bild einen Ton hätten, sodass die Kinder das Alphabet noch viel besser lernen können. Deshalb habe ich meinen kleinen Bruder gefragt, der sich für ein Eis als Belohnung dafür bereit erklärt hat, mit mir die Töne aufzunehmen. Das habe ich dann mit dem Voice-Recoder auf meinem Handy gemacht. Die fertigen Töne habe ich dann beschriftet und an Viccis Email Adresse gesendet, da sie dieses auf ihrem Computer einfügen konnte. 
+Aufgenommen haben wir Töne wie "A wie Apfel", aber auch "Prima" oder "Schade, beim nächsten Mal". 
+
 ## 29.01.2019
 ### Sounds
 Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sich Johannas kleiner Bruder zur Verfügung gestellt und für jedes Bild den Buchstaben mit dem Beispiel gesprochen. Als ersten Schritt haben wir dann die Audiodatei auf den Computer heruntergeladen und ihn dann als Sound in das Spiel eingefügt. Nach einigem Probieren von zusammengestellten Befehlen, welche bewerkstelligen sollen, dass der Sound nur dann auftaucht, wenn ein spezielles Bild angeklickt wird, hat es trotz allem leider zunächst nicht geklappt. Wir haben nicht herausgefunden, wie wir das Audio nur ein Mal abspielen lassen und nicht in einer nicht endenden Schleife. Dafür haben wir in der heutigen Stunde diesen neuen Blogeintrag geschrieben.
@@ -55,7 +60,10 @@ Heute haben wir versucht einen Sound in das Spiel einzufügen. Als Audio hat sic
 ### Virus-Alarm
 In der heutigen Stunde hatten wir anfangs ein paar technische Probleme. Der Bildschirm unseres ursprünglichen und tatsächlich erwiesener Maßen sehr unzuverlässigen Computers ist eingegfroren und hat uns ein weiteres Mal im Stich gelassen. Daraufhin hat uns Herr Buhl freundlicherweise seinen Computer zur Verfügung gestellt. Woraufhin wir den gesamten Kurs mit unserem "A, wie Apfel" (Sound) über die Anlage erfreut und teilweise verschreckt haben. Nach erneuten, nicht funktionierenden Befehlblöcken, zum Spielen des Sounds, haben wir Herrn Buhl um Hilfe gebeten. Selbst nachdem wir uns auch im Internet dazu informiert hatten, hat es einfach nicht geklappt. 
 
-### Endlich (Victoria)
+## Johanna
+In der Stunde hat es ja leider nicht funktioniert, deshalb habe ich Zuhause versucht, das Problem zu lösen. Virl weiter bin ich nicht gekommen, da mein Computer nicht mit dem Programm "AppLab" klargekommen ist und die Seite regelmäßig abstürzte. Ich habe dann aber den Stundenblog weiter geschrieben und noch neue Töne mit meinem Bruder aufgenommen.
+
+### Endlich
 Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich weitergekommen sind, habe ich mich nach heute Nachmittag nocheinmal an unser Spiel gesetzt. Nach einigem herumprobieren habe ich es schließlich geschafft, den Sound ohne Schleife hineinzubauen. Zudem habe ich weiter an unseren Blogs weitergearbeitet.
 
 ## 05.02.2019
@@ -63,12 +71,19 @@ Nachdem wir enttäuschender Weise heute in der einen Doppelstunde nicht wirklich
 Nachdem ich gestern herausgefunden hatte, wie wir die Sounds einfügen können, habe ich mich heute weiter an unser Projekt gesetzt. Nachdem ich die Audiodateien von Johanna geschickt bekommen hatte, habe ich sie zuerst auf meinem handy gespeichert, dann auf meinen Computer gepielt und schließlich habe ich die Dateien auf Applab hochgeladen. Damit musste ich nur noch den Befehl zum Abspielen eines Sounds in den Block einbauen und die entsprechende Audiodatei einfügen. Mit der Ausnahme von ein paar Audios sind nun fast alle Sounds eingefügt und damit sind wir schon fast fertig mit unserem Spiel. Abgesehen von dem Spiel, habe ich mich auch heute mit den Blogs, hier auf Github, beschäftigt (dies beinhaltet den Stundenblog sowie den Projektblog).
 
 ## 06.02.2019
-### Johanna und Victoria
+### Lezte Sounds einfügen
 Heute haben wir uns nochmal an das Spiel gesetzt um die letzten Sounds einzugügen, damit wir den Großteil unseres Vorhabens erledigt haben. Dies geschah dann auch schließlich in ein paar wenigen Minuten. Zudem haben wir heute erneut über weitere Ideen nachgedacht, wie wir unser Spiel noch weiter ausbauen können. Johanna hatte die Idee, dass wir zum Beispiel zwei Möglichkeiten für den Spieler einbauen, wie er das Spiel spielen möchte. Die eine Möglichkeit wäre, das normale Spiel (Bilder zu den Buchstaben anklicken) und die Andere wäre eine kleine Abwechslung dazu. Dabei würde der Spieler unten auf dem Screen einen Korb haben und Buchstaben würden wie Regen den Bildschirm herunterfallen und der Spieler muss sie auffangen, bis am Ende ein Wort entsteht. Ob wir dieses Vorhaben auch Umsetzten werden wir noch sehen.
 
 ## 09.02.2019
 ### Victoria
 Da ich mich darüber informiert hatte, ob und wie man unsere neue Spielidee umsetzten könnte, habe ich auf Youtube und generell im Internet nach möglichen Umsetztungen recherchiert. Nach einiger Zeit intensiver Recherche haben wir aber beschlossen, dass es doch sehr umfangreich und kompliziert werden würde. Daher haben wir auch entschieden, dass wir nach weiteren Ideen suchen werden. Da ich heute auch noch etwas Freizeit hatte, habe ich schon ein paar Ideen versucht umzusetzten indem ich sie schon ein wenig vorprogrammiert habe um zu testen, ob sie sich so umsetzten lassen, wie sie geplant waren. Dabei gab es ein paar Fails aber auch Erfolge. Eine der neuen Ideen ist es, dass man auf einem anderen Screen ein Bild sieht unter dem es verschiedene Möglichkeiten zur Schreibweise des Bildes gibt. Am Beispiel vom Apfel wären die Möglichkeiten dann "Apfel", "Afpel" und "Appel" und der Spieler muss dann das richtige Feld anklicken. Wir werden aber trotzdem noch weiter über andere Spiele nachdenken und hoffentlich bald mit dem Programmieren anfangen.
+
+## 14.02.2019
+### Johanna 
+Ich wollte versuchen, noch ein neues Spiel dazu zu programmieren, deshalb habe ich mir einige Erklärungsseiten durchgelesen und ein paar Videos geschaut. Allerdings hat mich davon keine Idee richtig überzeugt, da wir ja nicht irgendein Spiel programmieren wollten, sondern etwas was Kindern dabei hilft, das Alphabeth zu lernen. 
+Eine Idee dir mir auch noch gekommen war, ist einen Korb zu programmieren, der über die App bewegt werden kann.
+Von oben sollten dann Buchstaben herunter fallen, die zusammen ein Wort ergeben. Der Korb würde diese Buchstaben dann auffangen und am Ende daraus ein Wort schreiben. Allerdings gibt es dabei in der Umsetzung Probleme.
+Wir wollten ja, dass jedes Wort auch ausgesprochen wird, damit die Kinder die Buchstaben und die Schreibweise besser verinnerlichen. Allerdings gäbe es dann bei den Wörtern sehr viele Schreibweisen, je nachdem in welcher Reihenfolge die Buchstaben aufgefangen werden, deshalb hätten wir für jeden Fall eine Audio machen müssen. 
 
 
 ## 20.02.2019
@@ -90,7 +105,7 @@ Nachdem wir über eine Woche versucht haben, unser Problem zu finden und alles m
 Da ich 26 Screens an mehreren Stellen verändern musste, haben die Änderungen die ganze Stunde gedauert, aber schlussendlich war es eine sehr produktive Doppelstunde und die Statistik funktioniuert nun endlich bei Spiel 1. Mein Ziel ist es nun, auch für Spiel zwei eine Statistik anzulegen, mit der man seine falschen und richtigen Treffer tracken kann.
 
 ## 06.03.2019
-### Johanna und Victoria
+### Statistik fürs zweite Spiel
 Heute haben wir uns drangesetzt, auch für das 2. Spiel eine Statistik einzubauen. Dafür haben wir die Befehle für das erste Spiel einfach kopiert und in das andere Spiel eingefügt und schon war das erledigt. Nun überlegen wir, ob wir für das 2. Spiel nicht eine ganz eigene Statistik erstellen wollen.
 
 ## 09.03.2019
@@ -102,7 +117,7 @@ Heute wollte ich für das zweite Spiel, bei dem man auf die richtige Schreibweis
 
 Dieser Block soll unser Spiel und die einzelenen Vorgehensweisen erklären und nachvollziehbar darstellen. Wir hoffen, dass ihr Spaß beim lesen hattet und falls ihr euch das Spiel genauer angucken wollt, könnt ihr gerne auf unserem 2. Blog vorbeischauen, den Link dazu findet ihr ganz unten!
 
-Wie auch bei Snap! hatten Johanna und ich beide das Problem, dass neue Program (https://studio.code.org/home) zu verstehen. Dies lag zum einem daran, dass das Design komplett anders und zum anderen vor allem komplizierter wirkte. Die ersten Stunden haben wir dafüt gebraucht mit dem Program zurecht zu kommen und ich denke die haben wir auch gut genutzt. Zum Teil brauchten wir Hilfe von Herrn Buhl doch danach hatten wir den Bogen ziemlich schnell raus und konnten uns vollkommen auf das Programmieren beschäftigen. Vorallem nachdem wir endlich eine Spielidee hatten, ging alles relativ schnell. Da die Unterrichtsstunden doch oft sehr kurz wirkten, haben wir uns auch zum Teil zu Hause an unser Projekt gesetzt um so weit wie möglich zu kommen. nachdem wir herausgefunden hatten, was alles mit dem Program möglich war, haben wir auch immer mehr Spielideen bekommen und ein paar sogar mit umgesetzt. Es ist erstaunlich, was alles mit einem solchen Programm möglich ist, doch wahrscheinlich konnten wir noch nicht das ganze Potenzial der Seite ausschöpfen, da wir nicht so viel Zeit hatten um uns wirklich intensiv mit dem auseinanderzusetzten. Was wir aber zum einfinden in das Program verwendet haben, waren Tutorials und Videos von https://studio.code.org/home in welchen einfach und simple die Grundbausteine zum programmieren erklärt wurden. Nachdem man dann gut mit dem Program vertraut war hat es wirklich Spaß gemacht damit zu arbeiten und auch ständig neue Ideen auszuprobieren. Diese haben manchmal fiunktioniert und manchmal leider nicht aber es wird nie langweilig, da es so unglaublich viele Möglichkeiten gibt, die Applab einem bietet.
+Wie auch bei Snap! hatten wir das Problem, dass neue Programm (https://studio.code.org/home) zu verstehen. Dies lag zum einem daran, dass das Design komplett anders und zum anderen vor allem komplizierter wirkte. Die ersten Stunden haben wir dafüt gebraucht mit dem Program zurecht zu kommen und ich denke die haben wir auch gut genutzt. Zum Teil brauchten wir Hilfe von Herrn Buhl doch danach hatten wir den Bogen ziemlich schnell raus und konnten uns vollkommen auf das Programmieren beschäftigen. Vorallem nachdem wir endlich eine Spielidee hatten, ging alles relativ schnell. Da die Unterrichtsstunden doch oft sehr kurz wirkten, haben wir uns auch zum Teil zu Hause an unser Projekt gesetzt um so weit wie möglich zu kommen. nachdem wir herausgefunden hatten, was alles mit dem Program möglich war, haben wir auch immer mehr Spielideen bekommen und ein paar sogar mit umgesetzt. Es ist erstaunlich, was alles mit einem solchen Programm möglich ist, doch wahrscheinlich konnten wir noch nicht das ganze Potenzial der Seite ausschöpfen, da wir nicht so viel Zeit hatten um uns wirklich intensiv mit dem auseinanderzusetzten. Was wir aber zum einfinden in das Program verwendet haben, waren Tutorials und Videos von https://studio.code.org/home in welchen einfach und simple die Grundbausteine zum programmieren erklärt wurden. Nachdem man dann gut mit dem Program vertraut war hat es wirklich Spaß gemacht damit zu arbeiten und auch ständig neue Ideen auszuprobieren. Diese haben manchmal fiunktioniert und manchmal leider nicht aber es wird nie langweilig, da es so unglaublich viele Möglichkeiten gibt, die Applab einem bietet.
 Wir sind sehr froh, dass wir für unser 2. und letztes Projekt nun ein anderes Program gewählt haben, da es uns neue Einblicke in die Welt des Programierens gegeben hat. Durch Applab haben wir ganz neue Möglichkeiten entdeckt und haben nun auch Erfahrungen beim programieren von Apps gesammelt.
 
 
