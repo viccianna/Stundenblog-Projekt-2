@@ -114,7 +114,11 @@ Heute wollte ich für das zweite Spiel, bei dem man auf die richtige Schreibweis
 
 ## 25.03.2019
 ### Löschbutton
-Heute war unsere Intention die Daten aus der Statistik zu löschen deshalb haben wir einen Delete-Button eingefügt. Danach haben wir uns eine Beispielanleitung zu dem Befehl "deleteRecord" angeschaut. Dadurch wollten wir eine Idee bekommen wie wir diesen Befehl in unser Spiel einbauen könnten. Nach ein paaer fehlgeschlagen Versuchen haben wir uns mit Herrn Buhl zusammengesetzt und sind dem Problem auf den Grund gegangen. Doch leider war die Zeit zu kurz und wir haben das Problem nicht ganz lösen können. Daher wollen wir 
+Heute war unsere Intention die Daten aus der Statistik zu löschen deshalb haben wir einen Delete-Button eingefügt. Danach haben wir uns eine Beispielanleitung zu dem Befehl "deleteRecord" angeschaut. Dadurch wollten wir eine Idee bekommen wie wir diesen Befehl in unser Spiel einbauen könnten. Nach ein paaer fehlgeschlagen Versuchen haben wir uns mit Herrn Buhl zusammengesetzt und sind dem Problem auf den Grund gegangen. Doch leider war die Zeit zu kurz und wir haben das Problem nicht ganz lösen können. Daher wollen wir nächste Stunde daran weiterarbeiten.
+
+## 26.03.2019
+### Differenzen beim Löschen
+Herrn Buhl hat uns gestern noch eine Mail zugeschickt in dem er uns eine Hilfestellung vorgeschlagen hat. Diese haben wir heute im Unterricht gelesen und in unser Spiel eingefügt. 
 
 
 # <a name="4"></a>Fazit und Zusammenfassung
